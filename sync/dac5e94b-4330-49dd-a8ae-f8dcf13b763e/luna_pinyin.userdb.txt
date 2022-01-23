@@ -1,0 +1,16 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	9
+#@/user_id	dac5e94b-4330-49dd-a8ae-f8dcf13b763e
+ce 	測	c=1 d=1 t=1
+hao 	豪	c=1 d=1 t=7
+he 	鶴	c=0 d=0.1 t=8
+lang hao 	狼毫	c=1 d=1 t=5
+pei zhi 	配置	c=1 d=1 t=6
+she zhi 	設置	c=1 d=1 t=2
+shu ru fa 	輸入法	c=2 d=1.97531 t=8
+shuang pin 	雙拼	c=0 d=0.1 t=8
+xiao 	小	c=1 d=1.0802 t=8
+xiao he shuang pin 	小鶴雙拼	c=1 d=1 t=9

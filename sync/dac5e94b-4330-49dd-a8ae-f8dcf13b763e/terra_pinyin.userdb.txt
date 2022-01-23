@@ -1,0 +1,10 @@
+# Rime user dictionary
+#@/db_name	terra_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	1
+#@/user_id	dac5e94b-4330-49dd-a8ae-f8dcf13b763e
+jiu4 	就	c=0 d=0.1 t=0
+jiu4 o1 yu4 gao4 	就噢預告	c=1 d=1 t=1
+o1 	噢	c=0 d=0.1 t=0
+yu4 gao4 	預告	c=0 d=0.1 t=0
