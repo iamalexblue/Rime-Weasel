@@ -2,15 +2,67 @@
 #@/db_name	luna_pinyin.userdb
 #@/db_type	userdb
 #@/rime_version	1.5.3
-#@/tick	9
+#@/tick	66
 #@/user_id	dac5e94b-4330-49dd-a8ae-f8dcf13b763e
-ce 	測	c=1 d=1 t=1
-hao 	豪	c=1 d=1 t=7
-he 	鶴	c=0 d=0.1 t=8
-lang hao 	狼毫	c=1 d=1 t=5
-pei zhi 	配置	c=1 d=1 t=6
-she zhi 	設置	c=1 d=1 t=2
-shu ru fa 	輸入法	c=2 d=1.97531 t=8
-shuang pin 	雙拼	c=0 d=0.1 t=8
-xiao 	小	c=1 d=1.0802 t=8
-xiao he shuang pin 	小鶴雙拼	c=1 d=1 t=9
+a li yun 	阿里雲	c=1 d=0.895834 t=66
+ba zi ji 	把自己	c=1 d=0.965605 t=66
+ban tian 	坂田	c=2 d=1.86013 t=66
+bie ren 	別人	c=1 d=0.980199 t=66
+bie ren de 	別人的	c=1 d=0.955997 t=66
+bing bu neng 	並不能	c=1 d=1 t=63
+bu shu 	佈署	c=1 d=1 t=55
+ce 	測	c=1 d=0.960789 t=66
+ce shi 	測試	c=4 d=3.31081 t=66
+ci ku 	詞庫	c=1 d=1 t=65
+dai biao 	代表	c=1 d=1 t=64
+dang chu 	當初	c=1 d=1 t=66
+de 	的	c=2 d=1.95556 t=66
+geng 	更	c=0 d=0.0810584 t=66
+geng sha hei ti 	更紗黑體	c=2 d=1.63338 t=66
+gu ge 	谷歌	c=1 d=1 t=66
+hao 	豪	c=1 d=0.99005 t=66
+he 	和	c=1 d=0.97531 t=66
+he 	鶴	c=0 d=0.0995012 t=66
+he bing 	合併	c=1 d=0.99005 t=66
+hei ti 	黑體	c=0 d=0.0810584 t=66
+hen duo 	很多	c=1 d=1 t=59
+hua ji 	滑稽	c=1 d=0.918512 t=66
+jian yue 	簡悅	c=1 d=0.822835 t=66
+jian zhan 	建站	c=1 d=0.865022 t=66
+lang hao 	狼毫	c=1 d=0.980199 t=66
+le 	了	c=2 d=2.12857 t=66
+nei rong 	內容	c=1 d=1 t=58
+pai ban 	排版	c=2 d=1.78282 t=66
+pei zhi 	配置	c=2 d=1.74742 t=66
+ruan jian 	軟件	c=1 d=0.839457 t=66
+sha 	紗	c=0 d=0.0810584 t=66
+she zhi 	設置	c=1 d=0.965605 t=66
+shi 	是	c=1 d=1 t=60
+shi hou 	事後	c=1 d=1 t=61
+shi hou 	時候	c=1 d=1 t=62
+shu ru fa 	輸入法	c=3 d=2.43881 t=66
+shu xu guan 	鼠鬚管	c=1 d=1 t=56
+shuang pin 	雙拼	c=0 d=0.0995012 t=66
+tan pai 	攤牌	c=0 d=0.0904837 t=66
+tan pai le 	攤牌了	c=1 d=0.909373 t=66
+tao yong 	套用	c=1 d=0.946485 t=66
+ti xi 	體系	c=1 d=0.83527 t=66
+tu pian 	圖片	c=1 d=0.856415 t=66
+wang pan 	網盤	c=1 d=0.852144 t=66
+wen dang 	文檔	c=1 d=0.831104 t=66
+xi tong 	系統	c=1 d=0.847894 t=66
+xiao 	小	c=1 d=1.07481 t=66
+xiao he shuang pin 	小鶴雙拼	c=1 d=1 t=66
+xie zuo 	寫作	c=1 d=0.904837 t=66
+ye tou gong le 	爺投共了	c=1 d=0.913931 t=66
+ying yu 	英語	c=1 d=0.88692 t=66
+you xiang 	郵箱	c=1 d=0.826959 t=66
+yun fu wu 	雲服務	c=1 d=0.860708 t=66
+zhe teng 	折騰	c=0 d=0.0918512 t=66
+zhe teng le 	折騰了	c=1 d=0.923116 t=66
+zhu ti 	主題	c=1 d=0.878095 t=66
+zhu ti 	主體	c=1 d=0.873716 t=66
+zi ti 	字體	c=1 d=0.810584 t=66
+zi yuan 	資源	c=1 d=0.843665 t=66
+zui zhong 	最終	c=1 d=0.941765 t=66
+zui zhong 	醉中	c=1 d=0.937067 t=66

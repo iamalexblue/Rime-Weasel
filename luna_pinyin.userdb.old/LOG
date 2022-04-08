@@ -1,0 +1,16 @@
+2022/04/07-19:02:19.855000 19688 Log #69: 84 ops saved to Table #106 OK
+2022/04/07-19:02:19.869000 19688 Archiving D:\AlexBlue\Documents\GitVault\Rime-Weasel\luna_pinyin.userdb/000069.log: OK
+2022/04/07-19:02:19.899000 19688 Log #105: 25 ops saved to Table #107 OK
+2022/04/07-19:02:19.900000 19688 Archiving D:\AlexBlue\Documents\GitVault\Rime-Weasel\luna_pinyin.userdb/000105.log: OK
+2022/04/07-19:02:19.914000 19688 Table #38: 15 entries OK
+2022/04/07-19:02:19.914000 19688 Table #52: 8 entries OK
+2022/04/07-19:02:19.933000 19688 Table #63: 72 entries OK
+2022/04/07-19:02:19.934000 19688 Table #66: 6 entries OK
+2022/04/07-19:02:19.950000 19688 Table #99: 607 entries OK
+2022/04/07-19:02:19.953000 19688 Table #101: 610 entries OK
+2022/04/07-19:02:19.953000 19688 Table #104: 2 entries OK
+2022/04/07-19:02:19.953000 19688 Table #106: 84 entries OK
+2022/04/07-19:02:19.953000 19688 Table #107: 25 entries OK
+2022/04/07-19:02:19.955000 19688 Archiving D:\AlexBlue\Documents\GitVault\Rime-Weasel\luna_pinyin.userdb/MANIFEST-000068: OK
+2022/04/07-19:02:19.955000 19688 Archiving D:\AlexBlue\Documents\GitVault\Rime-Weasel\luna_pinyin.userdb/MANIFEST-000103: OK
+2022/04/07-19:02:19.960000 19688 **** Repaired leveldb D:\AlexBlue\Documents\GitVault\Rime-Weasel\luna_pinyin.userdb; recovered 9 files; 47296 bytes. Some data may have been lost. ****
